@@ -6,12 +6,16 @@
 
 <h3 align="center">A frontend engineer from Ukraine 🇺🇦 </h3>
 
+</br>
+
 - 🔭 I’m currently working in **Transcenda**
 
-- 📄 Know about my experiences [b-an.dev](b-an.dev)
+- 📄 Know more about my experiences [b-an.dev](b-an.dev)
 
 ### Main skills
 [![My Skills](https://skillicons.dev/icons?i=js,react,jest,html,css,sass,bootstrap,github,git,figma,firebase,htmx,npm,pnpm&perline=7)](https://b-an.dev)
+
+</br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,6 +23,9 @@
 <a href="https://fb.com/https://www.facebook.com/bohdan.antonenko/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/bohdan.antonenko/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/b-antonenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="b-antonenko" height="30" width="40" /></a>
 </p>
+
+</br>
+</br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=b-antonenko&show_icons=true&locale=en&layout=compact" alt="b-antonenko" /></p>
 
