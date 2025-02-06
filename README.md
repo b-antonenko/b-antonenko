@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=js,react,jest,html,css,sass,bootstrap,github,git,figma,firebase,htmx,npm,pnpm,yarn)](https://b-an.dev)
+
 <!--
 **b-antonenko/b-antonenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
