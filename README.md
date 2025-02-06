@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working in **Transcenda**
 
-- 📄 Know more about my experiences [b-an.dev](b-an.dev)
+- 📄 Know more about my experiences on my [website](https://b-an.dev/)
 
 ### Main skills
 [![My Skills](https://skillicons.dev/icons?i=js,react,jest,html,css,sass,bootstrap,github,git,figma,firebase,htmx,npm,pnpm&perline=7)](https://b-an.dev)
