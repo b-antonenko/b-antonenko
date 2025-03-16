@@ -27,6 +27,30 @@
 </br>
 </br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=b-antonenko&show_icons=true&locale=en&layout=compact" alt="b-antonenko" /></p>
+<table align="center">
+  <tr>
+  <td>
+  <a href="https://github.com/b-antonenko/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=b-antonenko&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Antonenko Bohdan github stats" /></a>
+  </td>
+  <td>
+  <a href="https://github.com/b-antonenko/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-antonenko&layout=compact&theme=buefy&hide_border=true" /></a>
+  </td>
+  </tr>
+  <tr>
+  <td colspan=2 align="center">
+  <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=b-antonenko&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Bohdan Antonenko GitHub Readme Streak Stats" /> </a>
+  </td>
+  </tr>
+</table>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=b-antonenko&show_icons=true&locale=en" alt="b-antonenko" /></p>
+<div align="center">
+<a href="https://u8views.com/github/b-antonenko"><img src="https://u8views.com/api/v1/github/profiles/47101465/views/day-week-month-total-count.svg"></a>
+</div>
+
+<br>
+
+<div align="center">
+<a href="https://www.codewars.com/users/b-antonenko"><img src="https://www.codewars.com/users/b-antonenko/badges/large">
+</div>
+
+<br>
